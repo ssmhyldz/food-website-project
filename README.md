@@ -6,7 +6,7 @@ This website includes sections such as information about the company, menu, and 
 <br>
 Additionally, on-site search and shopping buttons were also created
 <br>
-You can review it in the video below &#128071
+You can review it in the video below &#128071;
 <br>
 
 
